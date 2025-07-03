@@ -1,6 +1,6 @@
 # 💻 Edogawa Araujo | Java Developer 
 
-Welcome to my GitHub! I'm Edogawa , a passionate software developer from Brazil, currently focused on backend development using **Java (Spring Boot)**. I'm building a solid portfolio of practical projects as part of my journey to work as a developer in **Japan**. I believe in clean code, continuous learning, and using technology to solve real problems.
+Welcome to my GitHub! I'm Edogawa, a passionate software developer from Brazil, currently focused on backend development using **Java (Spring Boot)**. I'm building a solid portfolio of practical projects as part of my journey to work as a developer in **Japan**. I believe in clean code, continuous learning, and using technology to solve real problems.
 
 Here you’ll find:
 - 📌 `projectKanbanAPI`: A Kanban task management API using Spring Boot and PostgreSQL.
