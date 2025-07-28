@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm Edogawa, a passionate software developer from Brazil, currently focused on backend development using **Java (Spring Boot)**. I'm building a solid portfolio of practical projects as part of my journey to work as a developer in **Japan**. I believe in clean code, continuous learning, and using technology to solve real problems.
 
 Here you’ll find:
-- 📌 `projectKanbanAPI`: A Kanban task management API using Spring Boot and PostgreSQL.
+
 - 🔐 Auth & Security implementations with JWT and exception handling.
 - 📚 Consistent documentation and bilingual (🇯🇵 🇧🇷) comments for future international collaboration.
 - 🚧 More projects are coming, including frontend integrations with Angular.
@@ -16,7 +16,7 @@ I'm currently studying intensively to reach a professional level of software dev
 こんにちは！私はブラジル出身のソフトウェア開発者、エドガワ・アラウジョです。現在は **Java（Spring Boot）** を使ったバックエンド開発に集中しています。日本で開発者として働くことを目指しており、そのために実践的なプロジェクトを積み重ね、ポートフォリオを構築しています。
 
 このGitHubでは以下のことを紹介しています：
-- 📌 `projectKanbanAPI`: Spring BootとPostgreSQLを使ったカンバン型タスク管理API
+
 - 🔐 JWTと例外処理を用いた認証とセキュリティ実装
 - 📚 将来的な国際協力を意識した日本語・ポルトガル語のバイリンガルコメント
 - 🚧 Angularとのフロントエンド統合を含む新しいプロジェクトも進行中
