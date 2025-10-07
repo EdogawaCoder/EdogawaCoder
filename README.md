@@ -1,30 +1,35 @@
-# Edison Araujo | Java Developer 
+Welcome to my GitHub! I'm Edison (Edo), a passionate software developer from Brazil, currently focused on backend development using Java (Spring Boot) and expanding into frontend development with React.
 
-Welcome to my GitHub! I'm Edison(Edo), a passionate software developer from Brazil, currently focused on backend development using **Java (Spring Boot)**. I'm building a solid portfolio of practical projects as part of my journey to work as a developer in **Japan**. I believe in clean code, continuous learning, and using technology to solve real problems.
+I’m building a solid portfolio of practical, real-world projects as part of my journey to work as a developer in Japan. I believe in clean code, continuous learning, and using technology to solve real problems.
 
 Here you’ll find:
 
-- 🔐 Auth & Security implementations with JWT and exception handling.
-- 📚 Consistent documentation and bilingual (🇯🇵 🇧🇷) comments for future international collaboration.
-- 🚧 More projects are coming, including frontend integrations with Angular.
+Backend implementations using Spring Boot with authentication (JWT) and exception handling.
 
-## 🎯 My Goal
-I'm currently studying intensively to reach a professional level of software development and Japanese language proficiency. My dream is to move to Japan and contribute to tech teams with dedication, respect, and skill.
+Consistent documentation and bilingual (JP | EN) comments for future international collaboration.
 
----
+Ongoing projects integrating React for modern and responsive frontends.
 
-こんにちは！私はブラジル出身のソフトウェア開発者、エドガワ・アラウジョです。現在は **Java（Spring Boot）** を使ったバックエンド開発に集中しています。日本で開発者として働くことを目指しており、そのために実践的なプロジェクトを積み重ね、ポートフォリオを構築しています。
+My Goal
+
+I'm currently studying intensively to reach a professional level in both software development and Japanese language proficiency. My dream is to move to Japan and contribute to tech teams with dedication, respect, and skill.
+
+こんにちは！ブラジル出身のソフトウェア開発者、エドガワ・アラウジョです。
+現在は Java（Spring Boot） を使ったバックエンド開発に集中しながら、React を学び、フロントエンド開発のスキルも磨いています。
+
+日本で開発者として働くことを目指しており、そのために実践的なプロジェクトを積み重ね、ポートフォリオを構築しています。
 
 このGitHubでは以下のことを紹介しています：
 
-- 🔐 JWTと例外処理を用いた認証とセキュリティ実装
-- 📚 将来的な国際協力を意識した日本語・ポルトガル語のバイリンガルコメント
-- 🚧 Angularとのフロントエンド統合を含む新しいプロジェクトも進行中
+Spring Bootを使用したバックエンド実装（JWT認証、例外処理など）
 
-## 🎯 目標
-私は現在、ソフトウェア開発のプロフェッショナルレベルと日本語能力の向上に向けて集中的に学習しています。日本に移住し、技術チームに貢献することが私の夢です。真摯な姿勢と技術力でチームの力になりたいと考えています。
+将来的な国際協力を意識した日本語・英語のバイリンガルコメント
 
----
+モダンでレスポンシブなフロントエンドを目指した React 学習プロジェクト
 
-📫 Feel free to reach out in English, Japanese, or Portuguese.
+目標
 
+現在、ソフトウェア開発のプロフェッショナルレベルと日本語能力の向上に向けて集中的に学習しています。
+日本に移住し、誠実さと技術力でチームに貢献することが私の夢です。
+
+Feel free to reach out in English, Japanese, or Portuguese.
