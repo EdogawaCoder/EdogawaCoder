@@ -36,7 +36,7 @@ I study English and Japanese as part of this international-minded learning journ
 
 ---
 
-### 🇯🇵 こんにちは！
+### こんにちは！
 
 ブラジル出身のソフトウェアエンジニア、エドソンです。  
 現在は **Java / Spring Boot** を中心に、**React** と **SQL** のスキルも伸ばしながら、実践的なWeb開発に取り組んでいます。
@@ -53,3 +53,4 @@ I study English and Japanese as part of this international-minded learning journ
 
 Feel free to reach out — happy to connect and build together.
 ****
+
