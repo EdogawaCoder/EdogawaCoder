@@ -1,38 +1,55 @@
-# Edison  Araújo | Full Stack Web Developer
+## Edison Araújo | Full-Stack Developer
 
-Welcome to my GitHub! I'm Edison (Edo), a passionate software developer from Brazil, currently focused on backend development using Java (Spring Boot) and expanding into frontend development with React.
+Welcome to my GitHub! I'm Edison (Edo), a dedicated software developer from Brazil, focused on building clean, reliable, and scalable applications.
 
-I’m building a solid portfolio of practical, real-world projects as part of my journey to work as a developer in Japan. I believe in clean code, continuous learning, and using technology to solve real problems.
+I work with **Java / Spring Boot** for backend development and I'm advancing in **React** for modern frontend applications.  
+I also work with **SQL databases** (PostgreSQL) and apply best practices in architecture, REST APIs, exception handling, authentication (JWT), and Docker.
 
-Here you’ll find:
+I value clarity, continuous learning, and high-quality code designed to solve real business problems.
 
-Backend implementations using Spring Boot with authentication (JWT) and exception handling.
+---
 
-Consistent documentation and bilingual (JP | EN) comments for future international collaboration.
+###  What you’ll find here
 
-Ongoing projects integrating React for modern and responsive frontends.
+- Backend applications with Spring Boot  
+- React interfaces with modern component architecture  
+- SQL modeling and relational database integration  
+- Clean code, proper exception handling, DTO architecture, and service layer responsibilities  
+- Technical documentation and bilingual comments (EN / JP)  
+- Projects evolving from study to production-ready structure  
 
-# My Goal
+---
 
-I'm currently studying intensively to reach a professional level in both software development and Japanese language proficiency. My dream is to move to Japan and contribute to tech teams with dedication, respect, and skill.
+###  Current Focus
 
-こんにちは！ブラジル出身のソフトウェア開発者、エドガワ・アラウジョです。
-現在は Java（Spring Boot） を使ったバックエンド開発に集中しながら、React を学び、フロントエンド開発のスキルも磨いています。
+- Strengthening backend and frontend architecture skills  
+- Deepening React, Spring Security, and Docker usage  
+- Improving SQL modeling and database performance  
+- Growing as a professional in collaborative environments  
 
-日本で開発者として働くことを目指しており、そのために実践的なプロジェクトを積み重ね、ポートフォリオを構築しています。
+---
 
-このGitHubでは以下のことを紹介しています：
+###  Long-Term Vision
 
-Spring Bootを使用したバックエンド実装（JWT認証、例外処理など）
+I aim to become a highly capable software engineer able to contribute to global development environments and multicultural teams.  
+I study English and Japanese as part of this international-minded learning journey.
 
-将来的な国際協力を意識した日本語・英語のバイリンガルコメント
+---
 
-モダンでレスポンシブなフロントエンドを目指した React 学習プロジェクト
+### 🇯🇵 こんにちは！
 
-# 目標
+ブラジル出身のソフトウェアエンジニア、エドソンです。  
+現在は **Java / Spring Boot** を中心に、**React** と **SQL** のスキルも伸ばしながら、実践的なWeb開発に取り組んでいます。
 
-現在、ソフトウェア開発のプロフェッショナルレベルと日本語能力の向上に向けて集中的に学習しています。
-日本に移住し、誠実さと技術力でチームに貢献することが私の夢です。
+技術力を磨き、国際的な視点を持ちつつ、プロとしてさらに成長していくことを目指しています。
 
-Feel free to reach out in English, Japanese, or Portuguese.
+---
 
+###  Languages
+
+🇧🇷 Portuguese | 🇺🇸 English | 🇯🇵 Japanese (studying)
+
+---
+
+Feel free to reach out — happy to connect and build together.
+****
